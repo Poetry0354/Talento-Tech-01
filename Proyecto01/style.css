@@ -18,7 +18,7 @@ body {
     gap: .5rem;
     border-color: brown;
     border-style: solid;
-    border-width: 20px;
+    border-width: 10px;
 }
 
 .pantalla {
@@ -44,6 +44,8 @@ body {
     border-radius: 80px;
     font-size: 20px;
     font-weight: 600;
+    font-family: monospace;
+    transition: background-color .2s ease-in-out;
 }
 #numeros:hover {
     background-color: rgb(145, 1, 1);
