@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: brown;
+}
+
+.calculadora {
+    background-color: gray;
+}
+
+#pantalla {
+    background-color: aqua;
+}
+
+.pantalla p {
+    color: rgb(236, 30, 30);
+}
